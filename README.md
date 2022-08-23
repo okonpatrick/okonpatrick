@@ -1,7 +1,7 @@
 - 👋 Hi, I’m patrick okon
--python, JavaScript developer
-Graphic designer
-Typist
+-python, JavaScript developer,
+Graphic designer,
+Typist,
 - Software Engineer(in view)
 - patrickokon10@gmail.com
 
