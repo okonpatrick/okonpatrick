@@ -1,8 +1,8 @@
-- 👋 Hi, I’m patrick Anthony Okon
--Python & JavaScript developer,
+- 👋 Hi, I’m Patrick Anthony Okon
+- A Web Developer,
 I have used the following tools to build cool stuffs:
 [React, Nodejs, Express, Nextjs, Typescript, Python, Tkinter]
-Graphic designer,
+Graphic designer, Entrepreneur,
 - Software Engineer(in view)
 - patrickokon10@gmail.com
 
