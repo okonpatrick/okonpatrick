@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Patrick Anthony Okon
-- A Web Developer,
+- A Frontend Web Developer,
 I have used the following tools to build cool stuffs:
-[React, Nodejs, Express, Nextjs, Typescript, Python, Tkinter]
-Graphic designer, Entrepreneur,
+[JavaScript, React, Nextjs, Typescript]
 - Software Engineer(in view)
 - patrickokon10@gmail.com
 - https://patrick-anthony-portfolio.vercel.app/
